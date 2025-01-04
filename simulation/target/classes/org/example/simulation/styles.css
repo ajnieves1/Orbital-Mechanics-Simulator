@@ -1,0 +1,10 @@
+.background {
+    -fx-background-color: gray;
+}
+.top-bar {
+    -fx-background-color: cadetblue;
+}
+.main-background {
+    -fx-background-image: url("/org/example/simulation/stars.jpg");
+    -fx-background-size: cover;
+}
