@@ -18,3 +18,6 @@ s is the updated position,
 s_0 is the initial position,
 v is the velocity,
 Delta t is the time step
+
+
+Program GUI was made in JavaFX
